@@ -147,7 +147,7 @@ public class AddOrder implements ActionListener {
       msg += "------------------\n";
       JOptionPane.showMessageDialog(f, "RECEIPT\n\n" + msg + "Total " + "$" + price + "\n\nThanks for choosing our Resturant\nWe hope to see you again");
 
-
+    //manish
    }
 
    public static void main(String[]args){
